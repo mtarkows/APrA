@@ -1,0 +1,11 @@
+var json_CalidaddeaireCOpromedio2017ppm_2 = {
+"type": "FeatureCollection",
+"name": "CalidaddeaireCOpromedio2017ppm_2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "NOMBRE": "LA BOCA", "DIRECCION": "AV. BRASIL 100", "CO_promedio_por_ano_2009_1": 0.2052, "CO_promedio_por_ano_2010_1": 0.4145, "CO_promedio_por_ano_2011_1": 0.2201, "CO_promedio_por_ano_2012_1": 0.1842, "CO_promedio_por_ano_2013_1": 0.0824, "CO_promedio_por_ano_2014_1": 0.376, "CO_promedio_por_ano_2015_1": 0.3019, "CO_promedio_por_ano_2016_1": 44.6084, "CO_promedio_por_ano_2017_1": 0.5595 }, "geometry": { "type": "Point", "coordinates": [ -58.36637350934231, -34.625258481344467 ] } },
+{ "type": "Feature", "properties": { "NOMBRE": "CENTENARIO", "DIRECCION": "RAMOS MEJÍA 800", "CO_promedio_por_ano_2009_1": 0.6429, "CO_promedio_por_ano_2010_1": 2.062, "CO_promedio_por_ano_2011_1": 0.6852, "CO_promedio_por_ano_2012_1": 0.5912, "CO_promedio_por_ano_2013_1": 0.5942, "CO_promedio_por_ano_2014_1": 0.6583, "CO_promedio_por_ano_2015_1": 0.3019, "CO_promedio_por_ano_2016_1": 0.535, "CO_promedio_por_ano_2017_1": 0.5629 }, "geometry": { "type": "Point", "coordinates": [ -58.43207176936442, -34.606608101320056 ] } },
+{ "type": "Feature", "properties": { "NOMBRE": "CORDOBA", "DIRECCION": "AV. CORDOBA Y RODRIGUEZ PEÑA", "CO_promedio_por_ano_2009_1": 0.0, "CO_promedio_por_ano_2010_1": 0.681, "CO_promedio_por_ano_2011_1": 0.5211, "CO_promedio_por_ano_2012_1": 0.4415, "CO_promedio_por_ano_2013_1": 0.3432, "CO_promedio_por_ano_2014_1": 0.8004, "CO_promedio_por_ano_2015_1": 0.3019, "CO_promedio_por_ano_2016_1": 0.6957, "CO_promedio_por_ano_2017_1": 0.7695 }, "geometry": { "type": "Point", "coordinates": [ -58.391552889349533, -34.599564341337505 ] } },
+{ "type": "Feature", "properties": { "NOMBRE": "PALERMO", "DIRECCION": "AV. LAS HERAS Y ORTIZ DE OCAMPO", "CO_promedio_por_ano_2009_1": 0.8493, "CO_promedio_por_ano_2010_1": 1.069, "CO_promedio_por_ano_2011_1": null, "CO_promedio_por_ano_2012_1": null, "CO_promedio_por_ano_2013_1": null, "CO_promedio_por_ano_2014_1": null, "CO_promedio_por_ano_2015_1": 0.3019, "CO_promedio_por_ano_2016_1": null, "CO_promedio_por_ano_2017_1": null }, "geometry": { "type": "Point", "coordinates": [ -58.405359869353532, -34.583452951333818 ] } }
+]
+}

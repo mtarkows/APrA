@@ -1,0 +1,11 @@
+var json_CalidaddeairePM10promedio2017gm_0 = {
+"type": "FeatureCollection",
+"name": "CalidaddeairePM10promedio2017gm_0",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "NOMBRE": "LA BOCA", "DIRECCION": "AV. BRASIL 100", "PM10_promedio_por_ano_2010_1": null, "PM10_promedio_por_ano_2011_1": 38.76, "PM10_promedio_por_ano_2012_1": 28.04, "PM10_promedio_por_ano_2013_1": 26.17, "PM10_promedio_por_ano_2014_1": 24.24, "PM10_promedio_por_ano_2015_1": 28.6, "PM10_promedio_por_ano_2016_1": 27.28, "PM10_promedio_por_ano_2017_1": 32.56 }, "geometry": { "type": "Point", "coordinates": [ -58.36637350934231, -34.625258481344467 ] } },
+{ "type": "Feature", "properties": { "NOMBRE": "CENTENARIO", "DIRECCION": "RAMOS MEJÍA 800", "PM10_promedio_por_ano_2010_1": 25.75, "PM10_promedio_por_ano_2011_1": 42.45, "PM10_promedio_por_ano_2012_1": 33.92, "PM10_promedio_por_ano_2013_1": 31.34, "PM10_promedio_por_ano_2014_1": 24.52, "PM10_promedio_por_ano_2015_1": 28.6, "PM10_promedio_por_ano_2016_1": 26.52, "PM10_promedio_por_ano_2017_1": 23.16 }, "geometry": { "type": "Point", "coordinates": [ -58.43207176936442, -34.606608101320056 ] } },
+{ "type": "Feature", "properties": { "NOMBRE": "CORDOBA", "DIRECCION": "AV. CORDOBA Y RODRIGUEZ PEÑA", "PM10_promedio_por_ano_2010_1": null, "PM10_promedio_por_ano_2011_1": 40.24, "PM10_promedio_por_ano_2012_1": 26.97, "PM10_promedio_por_ano_2013_1": 26.3, "PM10_promedio_por_ano_2014_1": 21.44, "PM10_promedio_por_ano_2015_1": 28.6, "PM10_promedio_por_ano_2016_1": 26.21, "PM10_promedio_por_ano_2017_1": 25.32 }, "geometry": { "type": "Point", "coordinates": [ -58.391552889349533, -34.599564341337505 ] } },
+{ "type": "Feature", "properties": { "NOMBRE": "PALERMO", "DIRECCION": "AV. LAS HERAS Y ORTIZ DE OCAMPO", "PM10_promedio_por_ano_2010_1": null, "PM10_promedio_por_ano_2011_1": null, "PM10_promedio_por_ano_2012_1": null, "PM10_promedio_por_ano_2013_1": null, "PM10_promedio_por_ano_2014_1": null, "PM10_promedio_por_ano_2015_1": 28.6, "PM10_promedio_por_ano_2016_1": null, "PM10_promedio_por_ano_2017_1": null }, "geometry": { "type": "Point", "coordinates": [ -58.405359869353532, -34.583452951333818 ] } }
+]
+}

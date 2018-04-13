@@ -1,0 +1,11 @@
+var json_CalidaddeaireNO2promedio2017ppb_1 = {
+"type": "FeatureCollection",
+"name": "CalidaddeaireNO2promedio2017ppb_1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "NOMBRE": "LA BOCA", "DIRECCION": "AV. BRASIL 100", "NO2_promedio_por_ano_2009_1": 21.88, "NO2_promedio_por_ano_2010_1": 25.12, "NO2_promedio_por_ano_2011_1": 27.15, "NO2_promedio_por_ano_2012_1": 28.22, "NO2_promedio_por_ano_2013_1": 14.52, "NO2_promedio_por_ano_2014_1": 14.58, "NO2_promedio_por_ano_2015_1": 16.64, "NO2_promedio_por_ano_2016_1": 10.59, "NO2_promedio_por_ano_2017_1": 21.58 }, "geometry": { "type": "Point", "coordinates": [ -58.36637350934231, -34.625258481344467 ] } },
+{ "type": "Feature", "properties": { "NOMBRE": "CENTENARIO", "DIRECCION": "RAMOS MEJÍA 800", "NO2_promedio_por_ano_2009_1": 23.53, "NO2_promedio_por_ano_2010_1": 26.86, "NO2_promedio_por_ano_2011_1": 23.51, "NO2_promedio_por_ano_2012_1": 17.74, "NO2_promedio_por_ano_2013_1": 21.81, "NO2_promedio_por_ano_2014_1": 17.25, "NO2_promedio_por_ano_2015_1": 16.64, "NO2_promedio_por_ano_2016_1": 15.87, "NO2_promedio_por_ano_2017_1": 17.57 }, "geometry": { "type": "Point", "coordinates": [ -58.43207176936442, -34.606608101320056 ] } },
+{ "type": "Feature", "properties": { "NOMBRE": "CORDOBA", "DIRECCION": "AV. CORDOBA Y RODRIGUEZ PEÑA", "NO2_promedio_por_ano_2009_1": 27.49, "NO2_promedio_por_ano_2010_1": 31.0, "NO2_promedio_por_ano_2011_1": 34.56, "NO2_promedio_por_ano_2012_1": 36.3, "NO2_promedio_por_ano_2013_1": 43.26, "NO2_promedio_por_ano_2014_1": 11.73, "NO2_promedio_por_ano_2015_1": 16.64, "NO2_promedio_por_ano_2016_1": 20.81, "NO2_promedio_por_ano_2017_1": 21.78 }, "geometry": { "type": "Point", "coordinates": [ -58.391552889349533, -34.599564341337505 ] } },
+{ "type": "Feature", "properties": { "NOMBRE": "PALERMO", "DIRECCION": "AV. LAS HERAS Y ORTIZ DE OCAMPO", "NO2_promedio_por_ano_2009_1": null, "NO2_promedio_por_ano_2010_1": null, "NO2_promedio_por_ano_2011_1": null, "NO2_promedio_por_ano_2012_1": null, "NO2_promedio_por_ano_2013_1": null, "NO2_promedio_por_ano_2014_1": null, "NO2_promedio_por_ano_2015_1": 16.64, "NO2_promedio_por_ano_2016_1": null, "NO2_promedio_por_ano_2017_1": null }, "geometry": { "type": "Point", "coordinates": [ -58.405359869353532, -34.583452951333818 ] } }
+]
+}
